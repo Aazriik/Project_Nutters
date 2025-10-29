@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 49a9e582775115c46a847e5e41e9d93c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1718698584260141917
+    second: SH_e_cloud_death_0
+  - first:
+      213: -8255092434735423505
+    second: SH_e_cloud_death_1
+  - first:
+      213: 4098627171715451458
+    second: SH_e_cloud_death_2
+  - first:
+      213: -8328979527177310137
+    second: SH_e_cloud_death_3
+  - first:
+      213: 2140714015100901513
+    second: SH_e_cloud_death_4
+  - first:
+      213: 7869704647783036151
+    second: SH_e_cloud_death_5
+  - first:
+      213: -3427400167615780087
+    second: SH_e_cloud_death_6
+  - first:
+      213: 4289707094554597331
+    second: SH_e_cloud_death_7
+  - first:
+      213: -2126584206241090439
+    second: SH_e_cloud_death_8
+  - first:
+      213: -9088674527668709848
+    second: SH_e_cloud_death_9
+  - first:
+      213: -6967716398196439303
+    second: SH_e_cloud_death_10
+  - first:
+      213: -310319685378545234
+    second: SH_e_cloud_death_11
+  - first:
+      213: 974018114154380301
+    second: SH_e_cloud_death_12
+  - first:
+      213: -6243201882665520330
+    second: SH_e_cloud_death_13
+  - first:
+      213: -5975498704717663273
+    second: SH_e_cloud_death_14
+  - first:
+      213: -3033731761158555413
+    second: SH_e_cloud_death_15
+  - first:
+      213: -5625376727710783502
+    second: SH_e_cloud_death_16
+  - first:
+      213: 5515750761068564016
+    second: SH_e_cloud_death_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: e_cloud_death_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 4
+        width: 31
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53eace914b0ad710800000000000000
+      internalID: 1718698584260141917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_cloud_death_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6
+        width: 30
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef949ffa25007d80800000000000000
+      internalID: -8255092434735423505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_cloud_death_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a0ddc72bf31e830800000000000000
+      internalID: 4098627171715451458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_cloud_death_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 37
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7407815bf35896c80800000000000000
+      internalID: -8328979527177310137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_cloud_death_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 36
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f439528eaec63d60800000000000000
+      internalID: 7869704647783036151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_cloud_death_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d75669efd9188b30800000000000000
+      internalID: 4289707094554597331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8fbf4af66fa36524a95c313dbe31bd12
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SH_e_cloud_death_10: -6967716398196439303
+      SH_e_cloud_death_11: -310319685378545234
+      SH_e_cloud_death_12: 974018114154380301
+      SH_e_cloud_death_13: -6243201882665520330
+      SH_e_cloud_death_14: -5975498704717663273
+      SH_e_cloud_death_15: -3033731761158555413
+      SH_e_cloud_death_16: -5625376727710783502
+      SH_e_cloud_death_17: 5515750761068564016
+      SH_e_cloud_death_4: 2140714015100901513
+      SH_e_cloud_death_6: -3427400167615780087
+      SH_e_cloud_death_8: -2126584206241090439
+      SH_e_cloud_death_9: -9088674527668709848
+      e_cloud_death_1: 4289707094554597331
+      e_cloud_death_2: 1718698584260141917
+      e_cloud_death_3: -8255092434735423505
+      e_cloud_death_4: 4098627171715451458
+      e_cloud_death_5: -8328979527177310137
+      e_cloud_death_6: 7869704647783036151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

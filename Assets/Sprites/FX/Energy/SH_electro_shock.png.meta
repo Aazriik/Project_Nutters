@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 3db62160cf303594c9c6845a7babd3b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1871958722182327947
+    second: SH_electro_shock_0
+  - first:
+      213: 4194960548766192484
+    second: SH_electro_shock_1
+  - first:
+      213: -7127171785645440229
+    second: SH_electro_shock_2
+  - first:
+      213: 6345639066231660648
+    second: SH_electro_shock_3
+  - first:
+      213: -8922049382545487295
+    second: SH_electro_shock_4
+  - first:
+      213: -4424150681942359524
+    second: SH_electro_shock_5
+  - first:
+      213: 2678042646335731294
+    second: SH_electro_shock_6
+  - first:
+      213: -8079818070649914974
+    second: SH_electro_shock_7
+  - first:
+      213: 3598101649388242682
+    second: SH_electro_shock_8
+  - first:
+      213: 8348706058877885308
+    second: SH_electro_shock_9
+  - first:
+      213: 2478032354084459757
+    second: SH_electro_shock_10
+  - first:
+      213: 1220145386227986478
+    second: SH_electro_shock_11
+  - first:
+      213: -4472804093319088311
+    second: SH_electro_shock_12
+  - first:
+      213: 6088236493471743803
+    second: SH_electro_shock_13
+  - first:
+      213: 3494494193498251659
+    second: SH_electro_shock_14
+  - first:
+      213: -3112524530399407676
+    second: SH_electro_shock_15
+  - first:
+      213: -2651676470729788280
+    second: SH_electro_shock_16
+  - first:
+      213: 4539543314867463425
+    second: SH_electro_shock_17
+  - first:
+      213: 8233797025398300079
+    second: SH_electro_shock_18
+  - first:
+      213: 3584374520532527979
+    second: SH_electro_shock_19
+  - first:
+      213: 8912226900021837885
+    second: SH_electro_shock_20
+  - first:
+      213: 247338774490711878
+    second: SH_electro_shock_21
+  - first:
+      213: -2246900255102462905
+    second: SH_electro_shock_22
+  - first:
+      213: 140996923202715803
+    second: SH_electro_shock_23
+  - first:
+      213: -1793474738558485434
+    second: SH_electro_shock_24
+  - first:
+      213: 1595156733011628653
+    second: SH_electro_shock_25
+  - first:
+      213: -1631828349237291576
+    second: SH_electro_shock_26
+  - first:
+      213: -1911773572231865332
+    second: SH_electro_shock_27
+  - first:
+      213: 4199791279541885731
+    second: SH_electro_shock_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: electro_shock_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 11
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571d022d5777506e0800000000000000
+      internalID: -1871958722182327947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electro_shock_4
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 8
+        width: 68
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4639cfba46e773a30800000000000000
+      internalID: 4194960548766192484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electro_shock_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 9
+        width: 60
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13ca67b503371d90800000000000000
+      internalID: -7127171785645440229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electro_shock_7
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 10
+        width: 51
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a02ec8b538e2480800000000000000
+      internalID: -8922049382545487295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electro_shock_6
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 11
+        width: 55
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a931210648bedf80800000000000000
+      internalID: -8079818070649914974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electro_shock_8
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 10
+        width: 54
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e207370a3c3dee010800000000000000
+      internalID: 1220145386227986478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electro_shock_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 19
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81e02154ffee7030800000000000000
+      internalID: 3494494193498251659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electro_shock_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c19ad23e671ec4d0800000000000000
+      internalID: -3112524530399407676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electro_shock_9
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 10
+        width: 65
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c59c4d13c49a59e0800000000000000
+      internalID: -1631828349237291576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e0a250329f9b9b745b44e97d8982b220
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SH_electro_shock_0: 1171194370
+      SH_electro_shock_10: 2478032354084459757
+      SH_electro_shock_12: -4472804093319088311
+      SH_electro_shock_13: 6088236493471743803
+      SH_electro_shock_16: -2651676470729788280
+      SH_electro_shock_17: 4539543314867463425
+      SH_electro_shock_18: 8233797025398300079
+      SH_electro_shock_19: 3584374520532527979
+      SH_electro_shock_20: 8912226900021837885
+      SH_electro_shock_21: 247338774490711878
+      SH_electro_shock_22: -2246900255102462905
+      SH_electro_shock_23: 140996923202715803
+      SH_electro_shock_24: -1793474738558485434
+      SH_electro_shock_25: 1595156733011628653
+      SH_electro_shock_27: -1911773572231865332
+      SH_electro_shock_28: 4199791279541885731
+      SH_electro_shock_3: 6345639066231660648
+      SH_electro_shock_5: -4424150681942359524
+      SH_electro_shock_6: 2678042646335731294
+      SH_electro_shock_8: 3598101649388242682
+      SH_electro_shock_9: 8348706058877885308
+      electro_shock_1: 3494494193498251659
+      electro_shock_2: -3112524530399407676
+      electro_shock_3: -1871958722182327947
+      electro_shock_4: 4194960548766192484
+      electro_shock_5: -7127171785645440229
+      electro_shock_6: -8079818070649914974
+      electro_shock_7: -8922049382545487295
+      electro_shock_8: 1220145386227986478
+      electro_shock_9: -1631828349237291576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

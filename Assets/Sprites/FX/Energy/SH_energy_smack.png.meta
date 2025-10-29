@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 1c569e5444b620e499a895544f3bdb43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3719285795237277820
+    second: SH_energy_smack_0
+  - first:
+      213: -1556982102624869021
+    second: SH_energy_smack_1
+  - first:
+      213: 5291338201953668301
+    second: SH_energy_smack_2
+  - first:
+      213: -9158738739919217056
+    second: SH_energy_smack_3
+  - first:
+      213: 5736566895678947416
+    second: SH_energy_smack_4
+  - first:
+      213: -6605375321001721386
+    second: SH_energy_smack_5
+  - first:
+      213: -7434347415638922458
+    second: SH_energy_smack_6
+  - first:
+      213: -8776496408540550865
+    second: SH_energy_smack_7
+  - first:
+      213: -7961083330349796889
+    second: SH_energy_smack_8
+  - first:
+      213: -1172229793348835759
+    second: SH_energy_smack_9
+  - first:
+      213: -5168487823308076277
+    second: SH_energy_smack_10
+  - first:
+      213: -5917734808294368129
+    second: SH_energy_smack_11
+  - first:
+      213: 2527341950762441196
+    second: SH_energy_smack_12
+  - first:
+      213: 6777148822428443854
+    second: SH_energy_smack_13
+  - first:
+      213: -8838064636592704212
+    second: SH_energy_smack_14
+  - first:
+      213: 8010858064459118402
+    second: SH_energy_smack_15
+  - first:
+      213: 5961553254887598815
+    second: SH_energy_smack_16
+  - first:
+      213: 5972114090078184588
+    second: SH_energy_smack_17
+  - first:
+      213: -264247039243262215
+    second: SH_energy_smack_18
+  - first:
+      213: -4913622615480410548
+    second: SH_energy_smack_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: energy_smack_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 14
+        width: 41
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3656763e60d746ae0800000000000000
+      internalID: -1556982102624869021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_smack_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 21
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc07e95f0c9e6940800000000000000
+      internalID: 5291338201953668301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_smack_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 19
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850853fa2316c9f40800000000000000
+      internalID: 5736566895678947416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_smack_6
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 12
+        width: 36
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d18f8f642ef454a0800000000000000
+      internalID: -6605375321001721386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_smack_8
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 15
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1562054b6376bbfe0800000000000000
+      internalID: -1172229793348835759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_smack_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 24
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce953212d1ce21320800000000000000
+      internalID: 2527341950762441196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_smack_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 24
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4edc672f44d0e50800000000000000
+      internalID: 6777148822428443854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_smack_7
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 11
+        width: 43
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2533f10a03e85580800000000000000
+      internalID: -8838064636592704212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b4302169def7cc543baf5a7eb64c2624
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SH_energy_smack_0: 3719285795237277820
+      SH_energy_smack_10: -5168487823308076277
+      SH_energy_smack_11: -5917734808294368129
+      SH_energy_smack_15: 8010858064459118402
+      SH_energy_smack_16: 5961553254887598815
+      SH_energy_smack_17: 5972114090078184588
+      SH_energy_smack_18: -264247039243262215
+      SH_energy_smack_19: -4913622615480410548
+      SH_energy_smack_3: -9158738739919217056
+      SH_energy_smack_6: -7434347415638922458
+      SH_energy_smack_7: -8776496408540550865
+      SH_energy_smack_8: -7961083330349796889
+      energy_smack_1: -1556982102624869021
+      energy_smack_2: 5291338201953668301
+      energy_smack_3: 2527341950762441196
+      energy_smack_4: 5736566895678947416
+      energy_smack_5: 6777148822428443854
+      energy_smack_6: -6605375321001721386
+      energy_smack_7: -8838064636592704212
+      energy_smack_8: -1172229793348835759
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
