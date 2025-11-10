@@ -3,12 +3,16 @@ using UnityEngine;
 public class CameraFollow : MonoBehaviour
 {
     // X and Y position limits for the camera
+    [Header("Horizontal")]
     [SerializeField] private float minXPos = -118.15f;
     [SerializeField] private float maxXPos = 119.68f;
+
+    [Header("Vertical")]
     [SerializeField] private float minYPos = -5.77f;
     [SerializeField] private float maxYPos = 5.73f;
 
     // Reference to the target to follow
+    [Header("Target to Follow")]
     [SerializeField] private Transform target;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created

@@ -355,7 +355,7 @@ TextureImporter:
       name: SH_woods_7
       rect:
         serializedVersion: 2
-        x: 352
+        x: 353
         y: 304
         width: 16
         height: 16
@@ -369,28 +369,6 @@ TextureImporter:
       bones: []
       spriteID: 419798e9b7ab663c0800000000000000
       internalID: -4366597748585563884
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SH_woods_8
-      rect:
-        serializedVersion: 2
-        x: 368
-        y: 304
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 88428ea17c74205d0800000000000000
-      internalID: -3097834673201994616
       vertices: []
       indices: 
       edges: []
@@ -990,7 +968,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SH_woods_35
+      name: SH_MovingPlatform
       rect:
         serializedVersion: 2
         x: 384
@@ -5163,6 +5141,7 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":35.0,"y":22.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
+      SH_MovingPlatform: -189730761
       SH_woods_0: -436385989020552508
       SH_woods_1: 175625746810513535
       SH_woods_10: -2302566242580237634
@@ -5316,7 +5295,6 @@ TextureImporter:
       SH_woods_32: -420125408
       SH_woods_33: 107331094
       SH_woods_34: -569854346
-      SH_woods_35: -189730761
       SH_woods_36: 502278393
       SH_woods_37: 1679481548
       SH_woods_38: -1024987888
